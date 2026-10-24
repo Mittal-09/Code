@@ -1,5 +1,4 @@
-a = int(input("enter the first number:"))
-print("Nothing")
 a = 5
-b = 88
-
+b =6
+c = a+b
+print(c)
