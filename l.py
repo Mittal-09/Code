@@ -1,4 +1,4 @@
 a = 40
 b =90
-c  a+b
+c = a+b
 print(c)
